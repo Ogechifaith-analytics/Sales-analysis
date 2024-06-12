@@ -6,7 +6,7 @@ This project uses SQL and Excel to analyze sales of different means of transport
 ### sql script
 https://github.com/Ogechifaith-analytics/project/blob/main/Sales%20analysis%20project.sql
  ### dashboard visualization
- https://eu.docworkspace.com/d/sIC3agOH0AYPUhrMG
+https://github.com/Ogechifaith-analytics/project/blob/main/Ivy-Auto%20yearly%20sales%20dashboard.xlsx
 
 # FEATURES
 - Feature engineering
