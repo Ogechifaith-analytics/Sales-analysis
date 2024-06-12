@@ -21,8 +21,8 @@ evaluating customer pattern and behaviour
 comprehensive visualization using chart and dashboards
 
  # Technologies used
-  SQL: joins,CTE'S,window functions,Aggregate.
-  Excel:Pivot tables,chart,slicers.
+  - SQL: joins,CTE'S,window functions,Aggregate.
+  - Excel:Pivot tables,chart,slicers.
 
 ### To  know more about my experiences: 
 https://eu.docworkspace.com/d/sILbagOH0AZXQhrMG
