@@ -1,8 +1,7 @@
 # OVERVIEW
-Hi, i am ogechi faith,an entry-level data analyst.
-I leverage  my analytical skill and proficiency in Sql and Excel to uncover strategic insights that facilitates decision-making,while working with a team or independently.
-This project uses SQL and Excel to analyze sales of different means of transportation across 21 countries.
-
+Hello, I'm Ogechi Faith, a Data Analyst passionate about turning data into actionable insights.
+With a strong foundation in SQL and Excel, I specialize in analyzing complex datasets to uncover strategic insights that empower data-driven decision-making. I thrive both independently and in collaborative environments, applying my analytical skills to solve real-world problems.
+This repository showcases a project where I utilized SQL and Excel to analyze sales data and build interactive dashboard for various modes of transportation across 21 countries. Through this project, I demonstrate my ability to handle large datasets, identify key trends, and present findings that inform business strategies.
 ### sql script
 https://github.com/Ogechifaith-analytics/project/blob/main/Sales%20analysis%20project.sql
  ### dashboard visualization
